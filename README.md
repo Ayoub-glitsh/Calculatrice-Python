@@ -41,13 +41,14 @@ Hébergée avec **Netlify**.
 -   **Python** (calculatrice.py) – code source d’origine
 
 ## 📁 Structure du projet
-
+```
 .
 ├── index.html
 ├── style.css
 ├── script.js
 ├── calculatrice.py     # version console
 └── README.md
+```
 
 ## 🚀 Installation
 
