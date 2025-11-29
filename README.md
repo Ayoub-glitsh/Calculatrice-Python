@@ -1,5 +1,12 @@
 # 🧮 Calculatrice Python – Version Web
+---
 
+<p align="center">
+  <img src="img.png" width="300"/>
+</p>
+
+
+---
 Ce projet est une **calculatrice simple**, d’abord développée en Python puis adaptée en version Web.
 
 Elle permet de réaliser les opérations arithmétiques de base dans une interface propre, claire et responsive.
