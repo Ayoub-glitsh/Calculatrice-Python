@@ -52,11 +52,11 @@ Hébergée avec **Netlify**.
 
 ### 1\. Cloner le projet
 
-git clone https://github.com/votre-username/calculatrice-web.git
+git clone https://github.com/Ayoub-glitsh/Calculatrice-Python.git
 
 ### 2\. Ouvrir dans un navigateur
 
-Ouvre simplement **index.html**
+Ouvre simplement **index (1).html**
 
 Pour un serveur local (optionnel) :
 
@@ -92,5 +92,4 @@ Si tu veux, je peux t’aider à les ajouter 😉
 ## 👨‍💻 Auteur
 
 **Ayoub Aguezar**
-
-# Développeur Web Full-Stack & Python
+Développeur Web Full-Stack & Python
