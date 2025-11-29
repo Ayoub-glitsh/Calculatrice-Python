@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Calculatrice Python</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #fbd3e9, #bbd2c5);
+      margin: 0;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    pre {
+      background-color: #1e1e1e;
+      color: #d4d4d4;
+      padding: 20px;
+      border-radius: 10px;
+      overflow-x: auto;
+      white-space: pre-wrap;
+    }
+
+    .download {
+      display: block;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .download a {
+      background-color: #28a745;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+
+    .download a:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Calculatrice Python 🐍</h1>
+    <p>Voici le code source d’une simple calculatrice :</p>
+    <pre>
+def addition(a, b):
+    return a + b
+
+def soustraction(a, b):
+    return a - b
+
+def multiplication(a, b):
+    return a * b
+
+def division(a, b):
+    if b != 0:
+        return a / b
+    else:
+        return "Erreur : Division par zéro"
+
+# Exemple d'utilisation
+print(addition(10, 5))
+print(soustraction(10, 5))
+print(multiplication(10, 5))
+print(division(10, 5))
+    </pre>
+
+    <div class="download">
+      <a href="calculatrice.py" download>Télécharger le fichier Python</a>
+    </div>
+  </div>
+
+</body>
+</html>
