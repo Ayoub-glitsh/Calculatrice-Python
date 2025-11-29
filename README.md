@@ -99,4 +99,4 @@ Si tu veux, je peux t’aider à les ajouter 😉
 ## 👨‍💻 Auteur
 
 **Ayoub Aguezar**
-Développeur Web Full-Stack & Python
+Développeur Web Full-Stack 
