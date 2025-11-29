@@ -43,9 +43,7 @@ Hébergée avec **Netlify**.
 ## 📁 Structure du projet
 ```
 .
-├── index.html
-├── style.css
-├── script.js
+├── index (1).html
 ├── calculatrice.py     # version console
 └── README.md
 ```
